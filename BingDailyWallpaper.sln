@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BingDailyWallpaper", "BingDailyWallpaper.csproj", "{DFB413F6-EF2A-F52C-AD67-4C90E8CC8220}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFB413F6-EF2A-F52C-AD67-4C90E8CC8220}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFB413F6-EF2A-F52C-AD67-4C90E8CC8220}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFB413F6-EF2A-F52C-AD67-4C90E8CC8220}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFB413F6-EF2A-F52C-AD67-4C90E8CC8220}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {99F1590E-60D6-4A47-8436-F287E001F04B}
+	EndGlobalSection
+EndGlobal
